@@ -20,8 +20,7 @@ The **Sales Performance Analytics and KPI Dashboard** is a comprehensive data vi
   - **Locations**: Regional sales distribution
 
 ## Technologies Used
-- **Power BI / Tableau** for data visualization.
-- **SQL/PySpark** for querying and manipulating large datasets.
+- **Power BI ** for data visualization.
 - **Python** for backend data processing and analysis.
 
 ## Usage

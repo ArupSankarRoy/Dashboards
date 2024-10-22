@@ -20,7 +20,7 @@ The **Financial Preferences and Savings Goals Dashboard** is a dynamic, interact
 
 ## Technologies Used
 - **Power BI ** for interactive data visualization and dashboard creation.
-- 
+  
 ## Usage
 The dashboard is ideal for individuals, financial planners, and analysts who want to:
 - Track savings goals progress and align spending with their financial preferences.

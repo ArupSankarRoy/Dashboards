@@ -6,7 +6,7 @@ The **Financial Preferences and Savings Goals Dashboard** is a dynamic, interact
 
 
 ## Key Features:
-- **Gender Distribution**: Donut charts showing financial preferences by gender.
+- **Distributions**: Donut charts showing financial preferences by gender,factor and duration.
 - **Investment Avenues**: Breakdown of investments across equity, fixed deposits, mutual funds, and government bonds.
 - **Savings Objectives**: Visualizing expectations for retirement, healthcare, and education savings.
 - **Risk and Duration**: Preferences by returns, risk tolerance, and investment duration.

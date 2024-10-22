@@ -11,6 +11,11 @@ The **Financial Preferences and Savings Goals Dashboard** is a dynamic, interact
 - **Savings Objectives**: Visualizing expectations for retirement, healthcare, and education savings.
 - **Risk and Duration**: Preferences by returns, risk tolerance, and investment duration.
 - **Capital Growth**: Tables showcasing capital appreciation and income across different asset classes.
+- **PAGE 1**: ![Screenshot 2024-10-02 173928](https://github.com/user-attachments/assets/12db71aa-b0e1-4a58-9f71-f536ad60815b)
+- **PAGE 2**: ![Screenshot 2024-10-02 174028](https://github.com/user-attachments/assets/23a8d1a8-cc97-4a70-9a1c-8fbe877f066e)
+- **PAGE 3**: ![Screenshot 2024-10-02 174128](https://github.com/user-attachments/assets/50d0ac03-98e6-4d59-ace3-d3ead3900a29)
+
+
 
 ## Data Breakdown
 - **Savings Goals**: Targeted savings amounts and progress tracking.

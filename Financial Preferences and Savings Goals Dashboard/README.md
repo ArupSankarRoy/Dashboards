@@ -5,12 +5,12 @@ The **Financial Preferences and Savings Goals Dashboard** is a dynamic, interact
 ![portfolio-9](https://github.com/user-attachments/assets/2aeb8566-2d01-48cd-b503-c3071b554343)
 
 
-## Features
-- **Savings Overview**: Visual representation of current savings status against set financial goals.
-- **Spending Categories**: Pie charts and bar charts for analyzing spending distribution across various categories.
-- **Monthly Spending Trends**: Line charts showing monthly spending patterns, highlighting areas for potential savings.
-- **Financial Goals Tracking**: Monitoring progress toward individual and aggregate financial goals over time.
-- **Key Metrics**: Quick insights into total savings, total expenditures, and budget surplus/deficit.
+## Key Features:
+- **Gender Distribution**: Donut charts showing financial preferences by gender.
+- **Investment Avenues**: Breakdown of investments across equity, fixed deposits, mutual funds, and government bonds.
+- **Savings Objectives**: Visualizing expectations for retirement, healthcare, and education savings.
+- **Risk and Duration**: Preferences by returns, risk tolerance, and investment duration.
+- **Capital Growth**: Tables showcasing capital appreciation and income across different asset classes.
 
 ## Data Breakdown
 - **Savings Goals**: Targeted savings amounts and progress tracking.
